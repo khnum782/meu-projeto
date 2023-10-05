@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 nesse projeto fiz uma atividade uma pagina de moveis planejados
 
-- [Visite o projeto online] (https://remarkable-florentine-b5fd08.netlify.app)
+- [Visite o projeto online] (https://ambiente-unico-para-voce.netlify.app/)
 
 ## 🔖 Layout
 
