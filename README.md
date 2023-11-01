@@ -37,7 +37,7 @@ nesse projeto fiz uma atividade uma pagina de moveis planejados
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/jy77GOQrQ6IU1YWMgQ2MPO/Explorer---Projeto-01-(Copy)?type=design&node-id=0-1&mode=design&t=aUyAFrONZRnNTgbJ-0) É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/y6xGdtWCrPv0aMxsFI1VFf/Explorer---Projeto-01-(Copy)?node-id=0%3A1&mode=dev) É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
