@@ -12,7 +12,7 @@ nesse projeto fiz uma atividade da trilha explorer da rockteset que pede para mo
 </p>
 
 <p align="center">
-  <img alt="" src="">
+  <img alt="" src="./images/capa.png">
 </p>
 
 <br>
@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 nesse projeto fiz uma atividade uma pagina de moveis planejados
 
-- [Visite o projeto online] (https://ambiente-unico-para-voce.netlify.app/)
+- [Visite o projeto online] (https://khnum782.github.io/moveis-customizados/)
 
 ## 🔖 Layout
 
